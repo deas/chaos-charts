@@ -35,6 +35,9 @@ spec:
       url: https://slack.kubernetes.io/
     - name: Documentation
       url: https://docs.litmuschaos.io/docs/chaoshub/#generic-chaos
+#  icon:
+#    - url:
+#      mediatype: ""
   icon:
-    - url:
-      mediatype: ""
+    - url: https://raw.githubusercontent.com/litmuschaos/chaos-charts/master/workflows/icons/sock-shop.png
+      mediatype: image/png
